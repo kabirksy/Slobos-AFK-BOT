@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "ksyrethU.aternos.me",
+    "port": 27758,
     "version": "1.21.1"
   },
   "position": {
@@ -31,8 +31,8 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "KSYRETH IS GOAT",
+        "I'm a bot"
       ]
     },
     "chat-log": true,
